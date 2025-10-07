@@ -94,6 +94,14 @@ npm run dev
 **Step 6** : You see your Generated password in below Box
 **Step 7** : You are able to Copy or Save your password in vault
 
+---
+
 ##Screenshots 
+<img width="941" height="754" alt="image" src="https://github.com/user-attachments/assets/3b9a30cf-5cd6-4a5c-b68b-daf80d9c06ee" />
+---
+<img width="857" height="748" alt="image" src="https://github.com/user-attachments/assets/88f22048-422a-4530-89c5-336632d8c982" />
+---
+<img width="831" height="707" alt="image" src="https://github.com/user-attachments/assets/90c9e2b8-0a7e-4f27-8201-fbf19ce874e7" />
+
 
 
