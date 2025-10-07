@@ -143,7 +143,7 @@ export default function Page() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-black p-6 space-y-6">
-      <div className="w-full max-w-lg bg-blue-900 border-1 border-yellow-200 rounded-xl shadow-md p-6 space-y-6">
+      <div className="w-full max-w-lg  bg-black border-1 border-yellow-200 rounded-xl shadow-md p-6 space-y-6">
         <h1 className="text-2xl font-bold text-center ">🔐 Password Generator & Vault</h1>
 
         <div className="space-y-1">
