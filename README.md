@@ -1,6 +1,6 @@
-# Password Generator (Rough UI)
+# Password Generator + Secure MVP Vault
 
-A secure and easy-to-use web application to generate strong passwords and save them safely in a personal vault. Built with **Next.js**, **Mongodb**, **Tailwind CSS** and **Secure MVP Vault** .This project demonstrates full-stack development skills, local storage handling, and user authentication.
+A secure and easy-to-use **Full Stack Web Application** to generate strong passwords and save them safely in a personal vault. Built with **Next.js**, **Mongodb**, **Tailwind CSS** and **Secure MVP Vault** .This project demonstrates full-stack development skills, local storage handling, and user authentication.
 
 
 ---
@@ -40,6 +40,7 @@ npx create-next-app@latest
 ✔ App Router or Pages Router? … yes ✅
 ✔ Would you like to customize the default import alias (@/*)? … No
 ```
+Download Mongodb Database and connect with string 
 
 2. The structure of folder 
 
