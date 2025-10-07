@@ -45,8 +45,8 @@ export default function AuthForm({ onLogin }) {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100 p-6">
-      <form onSubmit={handleSubmit} className="bg-white p-6 rounded-xl shadow-md w-full max-w-sm space-y-4">
+    <div className="min-h-screen flex items-center justify-center bg-black p-6 text-black ">
+      <form onSubmit={handleSubmit} className="bg-white p-6 rounded-xl shadow-md w-full max-w-sm space-y-4 border-2 border-yellow-400">
         <h2 className="text-2xl font-bold text-center">{type === "login" ? "Login" : "Sign Up"}</h2>
 
         {error && <p className="text-red-500 text-sm text-center">{error}</p>}
@@ -70,7 +70,7 @@ export default function AuthForm({ onLogin }) {
 
         <button
           type="submit"
-          className="w-full bg-blue-600 text-white py-2 rounded-lg hover:bg-blue-700"
+          className="w-full bg-yellow-500 text-white py-2 rounded-lg hover:bg-yellow-600  "
           disabled={loading}
         >
           {loading ? "Please wait..." : type === "login" ? "Login" : "Sign Up"}
@@ -90,3 +90,5 @@ export default function AuthForm({ onLogin }) {
     </div>
   );
 }
+
+
