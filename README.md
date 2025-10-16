@@ -19,9 +19,10 @@ A secure and easy-to-use **Full Stack Web Application** to generate strong passw
 
 ## 💻 Tech Stack
 
-- **Frontend:** Next.js (App Router)  
+- **Frontend:** Next js (App Router)  
 - **Styling:** Tailwind CSS  
 - **Language:** JavaScript (React)
+- **Backend:** Node js
 
 
 ---
